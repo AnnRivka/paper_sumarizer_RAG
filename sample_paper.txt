@@ -1,0 +1,4 @@
+This paper explores the use of artificial intelligence for academic document summarization.
+The proposed approach focuses on reducing processing time by compressing large documents.
+Experimental results indicate that compressed context improves efficiency while preserving key technical details.
+The system demonstrates the benefits of retrieval-based summarization over full-document processing.
